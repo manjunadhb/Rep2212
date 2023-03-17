@@ -7,17 +7,6 @@ function App() {
       <h1>This heading is added by Manjunadh from Local Repository</h1>
       <h1>This is the heading added by other developer</h1>
 
-      <h1>This is heading, added by sivamaheshallam </h1>
-      <h1>This is the heading, added by sivamaheshallam </h1>
-      <h1>this is heading added by Sunil kumar sahoo </h1>
-      <h1>
-        This is the fifth headings added by Imran Hussain from Local Repository
-      </h1>
-      <h1>
-        This is the heading added by SivamaheshAllam from local Repository
-      </h1>
-    <h1>This is the heading added by Imran Hussain from github/remote repository</h1>
-
    
       <h1 style={{color: "blue"}}>Audio sections</h1>
       <div className="audioContainer">
