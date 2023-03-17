@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>This heading is added by Manjunadh from Local Repository</h1>
+
       <h1>This is the heading added by other developer</h1>
 
    
@@ -38,6 +39,12 @@ function App() {
       <h2>Title: Pyar karte ho na</h2>
       <audio src="./audio/pyar karte ho na.mp3" controls muted></audio>
     </div>
+=======
+
+    <h1>This is the heading added by other developer</h1>
+      <h1>This is the heading added by other developer</h1>
+
+
     </div>
   );
 }
